@@ -40,9 +40,6 @@ Git | Photoshop
 - 🔹 **E-Commerce MERN App** – Full authentication & admin dashboard
 - 🔹 **Task Manager API** – RESTful API with JWT auth
 - 🔹 **Portfolio Website** – Personal responsive portfolio
-
-(👉 Add your real repo links here)
-
 ---
 
 ## 📊 GitHub Stats
